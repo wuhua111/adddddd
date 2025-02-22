@@ -1,5 +1,3 @@
-# YouTube Ad Blocking Script Testing Guide - Chrome Browser Version
-
 ## Introduction
 
 ### Possible Causes of Script Issues
