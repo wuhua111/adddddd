@@ -1,5 +1,3 @@
-# YouTube Ad Blocking Script Testing Guide - Edge Browser Version
-
 ## Introduction
 
 ### Possible Causes of Script Issues
